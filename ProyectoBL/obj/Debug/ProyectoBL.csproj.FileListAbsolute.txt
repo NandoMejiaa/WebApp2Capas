@@ -1,0 +1,6 @@
+C:\Users\Armando\source\repos\WebApp2Capas\ProyectoBL\bin\Debug\ProyectoBL.dll
+C:\Users\Armando\source\repos\WebApp2Capas\ProyectoBL\bin\Debug\ProyectoBL.pdb
+C:\Users\Armando\source\repos\WebApp2Capas\ProyectoBL\obj\Debug\ProyectoBL.csprojAssemblyReference.cache
+C:\Users\Armando\source\repos\WebApp2Capas\ProyectoBL\obj\Debug\ProyectoBL.csproj.CoreCompileInputs.cache
+C:\Users\Armando\source\repos\WebApp2Capas\ProyectoBL\obj\Debug\ProyectoBL.dll
+C:\Users\Armando\source\repos\WebApp2Capas\ProyectoBL\obj\Debug\ProyectoBL.pdb
